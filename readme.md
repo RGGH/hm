@@ -3,3 +3,7 @@
 inherits = "release"
 lto = true
 ```
+
+```
+cargo build --profile release
+```
